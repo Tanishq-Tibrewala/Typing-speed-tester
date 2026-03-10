@@ -44,6 +44,5 @@ This project is developed for educational purposes.
 <img width="448" height="939" alt="Screenshot 2026-03-10 224441" src="https://github.com/user-attachments/assets/0bfe9afe-c22f-47ca-9829-93bf14d9baea" />
 
 
----
 
-## 📂 Project Structure
+
